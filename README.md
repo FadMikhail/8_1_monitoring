@@ -68,6 +68,8 @@
 
 #### Требования к результату
 * прикрепите в файл README.md скриншот уведомления в Yandex Monitoring 
+![image](https://user-images.githubusercontent.com/132131230/236620878-bf9ca67a-15b5-49b6-80fa-00b9871b93ad.png)
+![image](https://user-images.githubusercontent.com/132131230/236620892-4dcb5b22-4b2c-4d95-9472-e59591369f81.png)
 
 ## Критерии оценки
 
